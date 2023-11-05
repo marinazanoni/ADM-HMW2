@@ -6,7 +6,7 @@
 - Emmanuele De Lucia - 2099678
 - Eldar Gabdulsattarov - 2113224
 
-In this repository you can find one ".py" file, one “.ipynb” file and two “.sh” files , which cointain respectively:
+In this repository you can find two ".py" files, one “.ipynb” file and two “.sh” files , which cointain respectively:
 - the python file used to solve the AWS question from local;
 - the answers to the homework
 - the solutions to the CL questions.
