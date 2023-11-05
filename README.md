@@ -1,6 +1,6 @@
 # ADM-HW2 Group 10
 
-## Group member :
+## Group members :
 - Gianluca Procopio - 1942103
 - Marina Zanoni - 1964213
 - Emmanuele De Lucia - 2099678
@@ -13,8 +13,8 @@ In this repository you can find one ".py" file, one “.ipynb” file and two �
 
 ## Take a look at
 - [`READ.md`]( ): What's inside the repository
-- [‘aws.py‘] ( ): Theoretical and research answers
-- [‘HMW2_ADM.ipynb’] (https://colab.research.google.com/drive/1qvf74DSf0w44OknAhWStJziO4D0BEbbY#scrollTo=AQOcB2hIk86t): AWS’s cell copy
-- [‘commandline_original.sh’] ( ): CLQ 1st question’s solution
-- [‘commandline_LLM.sh’] ( ) : CLQ 2nd question’s solution
+- `aws.py` ( ): Theoretical and research answers
+- `HMW2_ADM.ipynb` (https://colab.research.google.com/drive/1qvf74DSf0w44OknAhWStJziO4D0BEbbY#scrollTo=AQOcB2hIk86t): AWS’s cell copy
+- `commandline_original.sh` ( ): CLQ 1st question’s solution
+- `commandline_LLM.sh` ( https://github.com/marinazanoni/sedia-volante/blob/main/commandline_LLM.sh) : CLQ 2nd question’s solution
 
