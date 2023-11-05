@@ -14,9 +14,9 @@ In this repository you can find two ".py" files, one “.ipynb” file and two �
 
 ## Take a look at
 - [`READ.md`](https://github.com/marinazanoni/HMW2_ADM#readme): What's inside the repository
-- [`aws.py`](https://github.com/marinazanoni/HMW2_ADM/blob/main/awsq.py): Script for the AWS exercise 
 - [`HMW2_ADM.ipynb`](https://github.com/marinazanoni/HMW2_ADM/blob/main/HW2_ADM.ipynb): Collection of all exercised solved
+- [`timegap.py`](https://github.com/marinazanoni/HMW2_ADM/blob/main/timegap.py): A file to solve RQ6
+- [`aws.py`](https://github.com/marinazanoni/HMW2_ADM/blob/main/awsq.py): Script for the AWS exercise 
 - [`commandline_original.sh`](https://github.com/marinazanoni/HMW2_ADM/blob/main/commandline_original.sh): CLQ 1st question’s solution
 - [`commandline_LLM.sh`](https://github.com/marinazanoni/HMW2_ADM/blob/main/commandline_LLM.sh) : CLQ 2nd question’s solution
-- [`timegap.py`](https://github.com/marinazanoni/HMW2_ADM/blob/main/timegap.py): A file to solve RQ6
 
